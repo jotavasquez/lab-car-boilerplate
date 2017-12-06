@@ -1,1 +1,83 @@
 /* Los estilos de tu proyecto */
+ body {
+ }
+
+.navbar {
+    background-color: #fff;
+    border-bottom: 1em solid white;
+}
+
+.menu{
+    padding: 2em;
+}
+
+.menu a img {
+    width: 70%;
+}
+
+ .image-1 {
+    height: 40em;
+    background-image: url(../assets/images/taxi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+ }
+
+  .image-2 {
+      height: 27em;
+      background-image: url(../assets/images/conduce.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      padding: 0;
+  }
+
+.amarillo {
+    margin-top: 2em;
+    background-color: #FBC729;
+    color:#fff;
+    padding: 0;
+}
+
+.amarillo a {
+    background-color: #fff;
+    color:#000;
+    border: 1px solid #fff;
+}
+
+.logoBlanco {
+    width: 20%;
+}
+
+.iphone {
+    border: 1px solid #fff;
+    border-left: 0px solid;
+    background-color: #FBC729;
+    color:#FFF;
+}
+
+.iphone img {
+    width: 100%;
+    padding: 3em 4em;
+}
+
+.yellow {
+    background-color: #FBC729;
+    padding: 2em 0;
+}
+
+.conduce {
+    background-color: rgba(0, 0, 0, 0.5);
+    color:#FFF;
+    height:100% ;
+}
+
+.tarifas {
+    color:#FFF;
+    display: inline-block;
+I   width: 50%;
+}
+
+.tarifas input {
+    
+}
